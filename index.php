@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Bienvenidos a mi Web</h1>
 
 <?php
@@ -31,3 +32,6 @@ if(class_exists($nombre_controlador)){
      echo "la pagina que buscas no existe";
 }
 
+=======
+<h1>Bienvenudi a mi web</h1>
+>>>>>>> adfd2417bf3b5300c8feffe62629066dcf4400e7
